@@ -1,8 +1,8 @@
 # 校园二手交易系统需求整理
 
-仓库地址：
-版本：
-日期：
+仓库地址：https://github.com/LessTanker/NJU-SE-project
+版本：lab1-final
+日期：2026.10.18
 
 依据：Lab1.txt、chat.txt 中 INT-01（正式访谈）、INT-02 和 INT-03（两轮跟进沟通）。格式采用 template/requirements.md 的十字段结构，示例业务和示例性能数字不作为本项目依据。后续答复对前文的明确补充优先适用；问题中的备选方案仅在答复明确采纳时作为依据，例如 INT-02-L073 采纳的状态表和 INT-02-L162 采纳的数据表。
 
